@@ -1,0 +1,2 @@
+faster-whisper\faster-whisper-xxl.exe "\\10.0.0.145\media\TV\90 Day\90 Day Fiance - Love in Paradise\S03\" --multilingual true --model medium --output_dir source --batch_recursive --beep_off --skip --print_progress
+
